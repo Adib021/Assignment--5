@@ -1,0 +1,60 @@
+.banner{
+	width:1200px;
+	height:500px;
+	background:red;
+	position:relative;
+	top: 0;
+	left:0;
+}
+.banner{
+	position: relative;
+
+}
+.banner img{
+
+}
+ .banner h1{
+	color: red;
+
+}
+.banner h2,h3,span{
+
+
+}	
+.blog{
+
+}
+.gallary{
+
+}
+.services{
+
+}
+.grid{
+	
+}
+.bg-gray {
+    background: red;
+}
+
+h1 {
+    font-size: 30px;
+}
+.menubar {}
+
+.menubar ul {
+    order-list: none;
+}
+
+.menubar ul li {
+    
+    display: inline-block;
+    padding: 12px;
+    /* text-align: center; */
+    /* margin: auto; */
+    /* margin: 0px 0px 0px 0px; */
+}
+
+.menubar ul li a {
+    text-decoration: none;
+}
